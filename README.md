@@ -1,5 +1,6 @@
-# cypress-tutorial
-> Companion repo for: Cypress tutorial for beginners
+# Demo E2E Cypress
+
+Demo about Testing a FrontEnd appication with Cypress
 
 ## Usage
 
