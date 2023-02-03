@@ -17,3 +17,9 @@ Run the test:
 ```bash
 npm run e2e
 ```
+
+## Capture screenshots/videos
+
+```bash
+./node_modules/cypress/bin/cypress run
+```
